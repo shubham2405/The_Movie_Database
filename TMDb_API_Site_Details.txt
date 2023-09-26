@@ -1,0 +1,10 @@
+Wedsite:
+https://developer.themoviedb.org/reference/intro/getting-started
+
+
+Generate API Link here:
+https://www.themoviedb.org/settings/api/request
+
+
+My API Link:
+3c755c2d553dd762458df0be8dc572a4
